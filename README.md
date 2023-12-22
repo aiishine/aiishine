@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 All of my projects are available at [aiishine.github.io](aiishine.github.io)
-
 - 📫 How to reach me **hadhadaicha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
