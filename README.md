@@ -30,17 +30,13 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="MongoDB" width="40" height="40"/> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/> 
