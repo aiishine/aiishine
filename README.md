@@ -2,7 +2,6 @@
 <h3 align="center">👩‍💻 Passionate about Data and Technology</h3>
 Welcome to my GitHub profile! I am passionate about data analysis and processing information to extract valuable insights. I enjoy using modern tools and technologies to solve complex problems.
 
-
  🛠 Skills & Tools
 - Data Analysis: Python (pandas, numpy), SQL
 - Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
@@ -14,8 +13,8 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 - Enhancing my skills in dbt and cloud-based data warehouses like BigQuery.
 
  📫 Connect with Me
-LinkedIn: www.linkedin.com/in/aicha-hadhad-277a65283
-Email: hadhadaicha@gmail.com
+- LinkedIn: www.linkedin.com/in/aicha-hadhad-277a65283
+- Email: hadhadaicha@gmail.com
 
 
 
