@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm HADHAD Aicha</h1>
 <h3 align="center">👩‍💻 Passionate about Data and Technology</h3>
 Welcome to my GitHub profile! I am passionate about data analysis and processing information to extract valuable insights. I enjoy using modern tools and technologies to solve complex problems.
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-- 🛠 Skills & Tools
+ 🛠 Skills & Tools
 Data Analysis: Python (pandas, numpy), SQL
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 Data Engineering: Apache Kafka, Apache Spark, Airflow, dbt, Docker
 Databases: MongoDB, BigQuery, Google Cloud Storage
 
-- 💡 What I'm Currently Learning
+ 💡 What I'm Currently Learning
 Data Engineering pipelines and real-time data processing.
 Enhancing my skills in dbt and cloud-based data warehouses like BigQuery.
 
-- 📫 How to reach me **hadhadaicha@gmail.com**
+ 📫 Connect with Me
+LinkedIn: www.linkedin.com/in/aicha-hadhad-277a65283
+Email: hadhadaicha@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
