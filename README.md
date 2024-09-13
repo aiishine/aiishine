@@ -25,12 +25,12 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/>
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="40"/>
   </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="40"/>
   </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="40"/>
