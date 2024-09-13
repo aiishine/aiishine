@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 
 
  🛠 Skills & Tools
-Data Analysis: Python (pandas, numpy), SQL
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
-Data Engineering: Apache Kafka, Apache Spark, Airflow, dbt, Docker
-Databases: MongoDB, BigQuery, Google Cloud Storage
+- Data Analysis: Python (pandas, numpy), SQL
+- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+- Data Engineering: Apache Kafka, Apache Spark, Airflow, dbt, Docker
+- Databases: MongoDB, BigQuery, Google Cloud Storage
 
  💡 What I'm Currently Learning
-Data Engineering pipelines and real-time data processing.
-Enhancing my skills in dbt and cloud-based data warehouses like BigQuery.
+- Data Engineering pipelines and real-time data processing.
+- Enhancing my skills in dbt and cloud-based data warehouses like BigQuery.
 
  📫 Connect with Me
 LinkedIn: www.linkedin.com/in/aicha-hadhad-277a65283
