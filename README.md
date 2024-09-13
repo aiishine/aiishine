@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 
  💡 What I'm Currently Learning
 - Data Engineering pipelines and real-time data processing.
-- Enhancing my skills in dbt and cloud-based data warehouses like BigQuery.
+- Enhancing my skills in dbt and cloud-based data warehouses.
 
  📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/aicha-hadhad-277a65283
