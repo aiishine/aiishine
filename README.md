@@ -3,11 +3,14 @@
 <p>
 Welcome to my GitHub profile! I am passionate about data analysis and processing information to extract valuable insights. I enjoy using modern tools and technologies to solve complex problems.
 </p>
+
  🛠 Skills & Tools
+ 
 - Data Analysis: Python (pandas, numpy), SQL
 - Data Visualization: Power BI, Matplotlib, Seaborn
 - Data Engineering: Apache Kafka, Apache Spark, Airflow, dbt, Docker
 - Databases: MongoDB, MySQL
+
 
  💡 What I'm Currently Learning
 - Data Engineering pipelines and real-time data processing.
