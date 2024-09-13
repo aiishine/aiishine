@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/>
