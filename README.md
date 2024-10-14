@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am passionate about data analysis and processing
 - Data Analysis: Python (pandas, numpy), SQL
 - Data Visualization: Power BI, Matplotlib, Seaborn
 - Data Engineering: Apache Kafka, Apache Spark, Airflow, dbt, Docker
-- Databases: MongoDB, MySQL
+- Databases: MongoDB, MySQL, PostgreSQL
 
 
  💡 What I'm Currently Learning
